@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "B6DCDFB1-C304-4DE0-881D-3C408BDCDE92",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 30,
+    "x": 10,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7FDBFA15-2D13-46A7-A9D3-85BB5C7B518F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F12F20B3-0EC7-4026-BB60-A84AE58426CB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "38C53C14-1581-4ED0-B4C3-E1908B20F461"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A156937E-FCB9-444E-9953-71A71FF0C1E6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CF4F7433-879C-49F4-ACDE-79CA0BAA4914"
+    }
+  ],
+  "name": "Billing Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

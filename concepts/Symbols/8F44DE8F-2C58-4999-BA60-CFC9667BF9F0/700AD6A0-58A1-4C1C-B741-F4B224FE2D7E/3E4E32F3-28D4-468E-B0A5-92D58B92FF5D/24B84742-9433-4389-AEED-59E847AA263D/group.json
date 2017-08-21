@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "24B84742-9433-4389-AEED-59E847AA263D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 30,
+    "width": 101,
+    "x": 14,
+    "y": 60
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E8986708-61A4-4269-AD2C-E503802D9C05"
+    },
+    {
+      "class": "text",
+      "id": "BDF6A602-9236-40C6-8300-1F3901509CF5"
+    }
+  ],
+  "name": "Patients and Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 30,
+            "enabled": 1,
+            "modelID": "constraint_d243a3ca-76a1-4a16-8639-272da99d27fb",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 101
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_6f2ec3dc-511b-4352-8ba8-e4c3eae558bc",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "825D456E-9309-4346-82DC-B8111F80E68B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 229,
+    "x": 1212,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7C435990-D9C7-436D-9555-67EE14819842"
+    },
+    {
+      "class": "text",
+      "id": "0CB2E509-C19D-407B-90A5-F92EDAB15207"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "558F0885-88A0-4D22-879C-E79BB1A8858D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8E0B6F3D-2689-408E-B4E6-4A52D3DE13F0"
+    }
+  ],
+  "name": "Session Menu",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

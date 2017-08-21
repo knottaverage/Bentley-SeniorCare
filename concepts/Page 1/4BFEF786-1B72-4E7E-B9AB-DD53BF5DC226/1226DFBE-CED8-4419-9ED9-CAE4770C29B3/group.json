@@ -1,0 +1,119 @@
+{
+  "_class": "group",
+  "do_objectID": "1226DFBE-CED8-4419-9ED9-CAE4770C29B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 645,
+    "width": 1170,
+    "x": 84,
+    "y": 202
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "FAD7D141-274E-4EF6-89F4-1C20BE17BF45"
+    },
+    {
+      "class": "text",
+      "id": "7C2FA243-7096-4B30-8756-38330C7AF788"
+    },
+    {
+      "class": "text",
+      "id": "D35A7965-3112-4E50-861E-EAA57784156F"
+    },
+    {
+      "class": "text",
+      "id": "994AA34F-B32F-4315-8A68-B78BE94A98E5"
+    },
+    {
+      "class": "text",
+      "id": "09BB6FDF-441D-4EC9-838F-0B315DDC6962"
+    },
+    {
+      "class": "text",
+      "id": "1042315B-0F80-4444-BF80-2C485CB3D7DB"
+    },
+    {
+      "class": "text",
+      "id": "B2B120BF-3A31-47C9-8365-3A20F700EC57"
+    },
+    {
+      "class": "text",
+      "id": "54BCE034-C367-43DC-AA31-5252FEB6CA92"
+    },
+    {
+      "class": "text",
+      "id": "8FB1992B-F16D-46D5-B181-6D7A452CE0BA"
+    },
+    {
+      "class": "text",
+      "id": "FFF45BB1-C002-4D04-8F7E-354B371A6BD8"
+    },
+    {
+      "class": "text",
+      "id": "62BB5746-E897-4A00-995F-E852CBD3FBED"
+    },
+    {
+      "class": "text",
+      "id": "E6B6967C-B975-4687-87F4-71B5A4344A14"
+    },
+    {
+      "class": "text",
+      "id": "269B0076-F621-4048-83D0-A45E1C013473"
+    },
+    {
+      "class": "text",
+      "id": "6B7224A1-5390-44BE-915C-F740789D84A9"
+    },
+    {
+      "class": "text",
+      "id": "BA45F76E-D089-4987-AEFC-604DC59F966E"
+    },
+    {
+      "class": "text",
+      "id": "C349E373-C2EA-45B5-92F1-7601615F7DFF"
+    },
+    {
+      "class": "group",
+      "id": "1D1C30CF-3A8D-424A-86B8-8A99125A46BB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "88F6AECA-5DD1-4B03-AE00-FE51260F1DD7"
+    }
+  ],
+  "name": "John Card 1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

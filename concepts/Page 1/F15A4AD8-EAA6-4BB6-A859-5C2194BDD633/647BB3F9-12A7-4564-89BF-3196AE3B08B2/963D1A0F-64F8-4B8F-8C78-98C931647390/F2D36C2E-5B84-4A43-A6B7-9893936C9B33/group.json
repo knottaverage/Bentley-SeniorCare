@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "F2D36C2E-5B84-4A43-A6B7-9893936C9B33",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 391,
+    "width": 235,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FE109B70-EC4B-415A-BF18-CCBBF44C6651"
+    },
+    {
+      "class": "text",
+      "id": "B2848F68-5068-43A6-83AD-9BC228A0B862"
+    },
+    {
+      "class": "text",
+      "id": "571B55F4-1549-4922-BE0D-E7CF0105D2C4"
+    },
+    {
+      "class": "group",
+      "id": "737BAA33-7A5C-4D10-8E59-F87585B7275B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "41279E4B-34F6-4E49-9B29-63B7CA8B813A"
+    }
+  ],
+  "name": "John Card 1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "9691AAF7-A005-4CB6-9987-88DF99C3770B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 252,
+    "width": 110,
+    "x": 309,
+    "y": 270
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CFD73811-7CD8-45DF-9E9F-5E243B411161"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C807FFB6-D0B5-4F8D-A36F-A0894BB5415A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9A203083-5114-407D-92F9-95426053DA90"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B449714-5657-4ADC-97D6-C3C9B23BF09F"
+    },
+    {
+      "class": "text",
+      "id": "510BAC4E-9F55-413E-90C6-B97A10C753B7"
+    },
+    {
+      "class": "text",
+      "id": "8D85E330-34E5-49CF-9DD5-814AA3159E81"
+    }
+  ],
+  "name": "Martha Tue",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

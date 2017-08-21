@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "do_objectID": "1CFE0690-A504-408B-80C2-3B0ADFF7380E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 105,
+    "width": 469,
+    "x": 10,
+    "y": 12
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4471D55C-6151-473A-A2CD-5C075D998CE6"
+    },
+    {
+      "class": "text",
+      "id": "352BFCD2-1D7D-4A36-A29A-BE63BF2EA9E1"
+    },
+    {
+      "class": "text",
+      "id": "C6EDF040-85BD-4AFD-860B-692AE404963F"
+    },
+    {
+      "class": "text",
+      "id": "32DEA5B1-CD02-447B-8F56-862CED84F8E8"
+    },
+    {
+      "class": "text",
+      "id": "D801A2C2-CC03-458A-9207-7E16FF32C24E"
+    },
+    {
+      "class": "text",
+      "id": "4B1D0740-9E37-42BE-9D0B-A268BB6EEEDC"
+    },
+    {
+      "class": "text",
+      "id": "9705B3D8-1122-41CB-ADCB-9E8A2977516A"
+    },
+    {
+      "class": "text",
+      "id": "60137335-718C-4B49-8FBA-D4D4FB51B002"
+    },
+    {
+      "class": "text",
+      "id": "63864FA7-534B-4B61-88FD-8A0DB72F9AA7"
+    },
+    {
+      "class": "text",
+      "id": "0BFBC8D3-9F4D-4E82-8B99-76A393B308FB"
+    },
+    {
+      "class": "text",
+      "id": "67C53961-7A68-4644-9502-E54A9D23FAC1"
+    },
+    {
+      "class": "text",
+      "id": "B43F8ED3-25E3-4D83-9E91-2C7F971F8D63"
+    }
+  ],
+  "name": "Group 13",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "EE0F2C72-2CFE-47E4-B858-E5499FD25289",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 44,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5B1E0A7F-69E0-460B-BC40-C801A70F6E35"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9E279930-3383-48B9-B5FF-29FB370EDC71"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "979706B8-AE61-4AAD-B23F-58B1338ECC52"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "07DD9E3B-9044-4E3B-A915-73C41320E2A6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7A2CFF7D-90FF-43A5-9B03-843B1D4801E6"
+    }
+  ],
+  "name": "Clock",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

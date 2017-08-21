@@ -1,0 +1,79 @@
+{
+  "_class": "rectangle",
+  "booleanOperation": -1,
+  "do_objectID": "8FD18878-5697-4DDF-8631-D3B1E3777079",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fixedRadius": 0.25,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 5.343608006082174,
+    "width": 5.311559230142443,
+    "x": 0,
+    "y": -0.00002205501332262958
+  },
+  "hasConvertedToNewRoundCorners": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "path": {
+    "_class": "path",
+    "isClosed": true,
+    "pointRadiusBehaviour": 1,
+    "points": [
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 1,
+        "curveFrom": "{0, 4.1273636272246687e-06}",
+        "curveMode": 1,
+        "curveTo": "{0, 4.1273636272246687e-06}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0, 4.1273636272246687e-06}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0.25,
+        "curveFrom": "{1.1032915353877812, 4.1273636272246687e-06}",
+        "curveMode": 1,
+        "curveTo": "{1.1032915353877812, 4.1273636272246687e-06}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{1.1032915353877812, 4.1273636272246687e-06}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0.25,
+        "curveFrom": "{0, 1.1344949313666017}",
+        "curveMode": 1,
+        "curveTo": "{0, 1.1344949313666017}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0, 1.1344949313666017}"
+      }
+    ]
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

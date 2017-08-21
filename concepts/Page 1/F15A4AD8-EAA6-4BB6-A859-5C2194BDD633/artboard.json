@@ -1,0 +1,179 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.98703231292517,
+    "green": 0.9753501896969391,
+    "red": 0.9732261672918062
+  },
+  "do_objectID": "F15A4AD8-EAA6-4BB6-A859-5C2194BDD633",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1029,
+    "width": 1440,
+    "x": 5816,
+    "y": -162
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      233,
+      1206,
+      753
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "26641F78-E9C8-4168-AF1B-5DEDE6963536"
+    },
+    {
+      "class": "group",
+      "id": "4480C3CC-5952-4373-847E-1CFAD91C1B83"
+    },
+    {
+      "class": "group",
+      "id": "647BB3F9-12A7-4564-89BF-3196AE3B08B2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AEE4BED3-7733-49AD-97AE-DA415B4DE192"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A520F360-1AC8-4AE5-A305-DFFA832E3C89"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "92DC475E-35A1-48E7-AB95-F9BC1012138A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "97851F86-B209-406D-B092-CFEC6B1BA016"
+    },
+    {
+      "class": "group",
+      "id": "7C8CCC31-BEBB-4F8C-BA74-69BC84117CA8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0951E26E-779F-4BC0-8C32-A486E5EED604"
+    },
+    {
+      "class": "group",
+      "id": "17AD2A4C-2B1D-4175-9A61-CF37497C0758"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EEB3A6F1-2478-4C17-A996-758238E15352"
+    },
+    {
+      "class": "text",
+      "id": "2818EC6E-D702-42B2-9C80-F67F6DC31D02"
+    },
+    {
+      "class": "group",
+      "id": "501D0A18-0D74-4596-BC10-1E8A7774EB2B"
+    },
+    {
+      "class": "group",
+      "id": "A81732C0-E7AB-4834-AC17-754A88EC2F95"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 99,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 21,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1440
+  },
+  "name": "Desktop HD Copy 3",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      502,
+      63,
+      50,
+      645,
+      127,
+      222,
+      374,
+      41
+    ]
+  }
+}

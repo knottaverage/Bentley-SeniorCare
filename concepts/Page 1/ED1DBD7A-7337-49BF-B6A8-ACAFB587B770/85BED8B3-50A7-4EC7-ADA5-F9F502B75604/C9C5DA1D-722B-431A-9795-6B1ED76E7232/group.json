@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "C9C5DA1D-722B-431A-9795-6B1ED76E7232",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 155,
+    "width": 115,
+    "x": 551,
+    "y": 192
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "53EABB84-304D-464E-BB26-5DC391D69998"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5BF9AADA-5D32-4610-903B-569427C87116"
+    },
+    {
+      "class": "group",
+      "id": "ACB2D570-D077-41CE-82E0-1A4D009A2904"
+    },
+    {
+      "class": "text",
+      "id": "BA39FD5C-4831-44AA-8E7F-3CF6BEE52735"
+    },
+    {
+      "class": "text",
+      "id": "C97EAE61-9202-4C36-B0C3-3167C7D17A46"
+    }
+  ],
+  "name": "Martha Wed",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

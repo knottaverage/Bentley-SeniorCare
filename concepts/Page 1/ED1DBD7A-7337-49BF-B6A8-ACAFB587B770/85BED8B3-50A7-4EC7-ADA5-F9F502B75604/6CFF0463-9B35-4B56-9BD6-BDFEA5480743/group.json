@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "6CFF0463-9B35-4B56-9BD6-BDFEA5480743",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 253,
+    "width": 116,
+    "x": 185,
+    "y": 270
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9BA4868A-F99A-4782-B309-6A151B21329B"
+    },
+    {
+      "class": "group",
+      "id": "E2A720A8-2535-4D88-9458-68F25ED8DDAA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F9E402D8-DC0B-455B-9572-51B8B2B9C6D7"
+    },
+    {
+      "class": "text",
+      "id": "002E634D-36D7-40A7-9E74-05920426831D"
+    },
+    {
+      "class": "text",
+      "id": "E9B6D5CB-698E-4E70-96DE-99D5FEE4E7B6"
+    }
+  ],
+  "name": "Martha Mon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

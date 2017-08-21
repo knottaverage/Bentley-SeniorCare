@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "19C055D2-EB8E-4070-A4A1-B4D3899D247A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 116,
+    "width": 593,
+    "x": 1,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0941E126-8379-4201-9F86-EC588077A096"
+    },
+    {
+      "class": "text",
+      "id": "D0BAD786-0A4B-43C9-9A9C-E16F562CEEB7"
+    },
+    {
+      "class": "text",
+      "id": "705ED18D-CD2A-42FF-8F4F-3BFC3E04D1BE"
+    },
+    {
+      "class": "text",
+      "id": "52D7EF90-8876-4037-8786-3CC469569CB2"
+    },
+    {
+      "class": "group",
+      "id": "125DB4A7-72DF-405D-A85E-E3827A267EF8"
+    }
+  ],
+  "name": "Schedule Head",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

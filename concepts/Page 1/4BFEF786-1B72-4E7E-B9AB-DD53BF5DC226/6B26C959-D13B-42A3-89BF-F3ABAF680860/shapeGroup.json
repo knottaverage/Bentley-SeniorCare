@@ -1,0 +1,211 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "6B26C959-D13B-42A3-89BF-F3ABAF680860",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 26,
+    "width": 89,
+    "x": 10,
+    "y": 13
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "89A1DE21-6098-46AA-83E4-42279E359222"
+    },
+    {
+      "class": "shapePath",
+      "id": "3BF2D09D-B65A-4A1D-8027-A16146D6F5DB"
+    },
+    {
+      "class": "shapePath",
+      "id": "F50B12AD-5B65-42B0-A870-B11464828C3D"
+    },
+    {
+      "class": "shapePath",
+      "id": "4C2C4129-FC7D-483A-AD5C-E6A61EBB113E"
+    },
+    {
+      "class": "shapePath",
+      "id": "F4FB297F-9E8D-4F91-AD1A-FD30413F0A4A"
+    },
+    {
+      "class": "shapePath",
+      "id": "885CDB8F-DCF4-41AE-B693-14B307EFF7AF"
+    },
+    {
+      "class": "shapePath",
+      "id": "451FDE49-9FC2-4D4D-8B23-AD81517C5949"
+    },
+    {
+      "class": "shapePath",
+      "id": "CAF5413B-EA44-4801-897F-4972C23833FB"
+    },
+    {
+      "class": "shapePath",
+      "id": "43412FFA-944E-4CB3-B274-3C7E6D887D2F"
+    },
+    {
+      "class": "shapePath",
+      "id": "A0913B82-4F25-4E0D-90B5-AC0318843BEE"
+    },
+    {
+      "class": "shapePath",
+      "id": "29226E68-8986-45D0-89EC-52E6052A6AF2"
+    },
+    {
+      "class": "shapePath",
+      "id": "131B0691-E751-4393-9DEA-81D9863BBB9C"
+    },
+    {
+      "class": "shapePath",
+      "id": "B3F4983E-E194-4926-A9B2-274B9B26B632"
+    },
+    {
+      "class": "shapePath",
+      "id": "B165CB26-0BEF-451C-A3DA-E182A6CEFC5C"
+    },
+    {
+      "class": "shapePath",
+      "id": "6D4EC19C-DA37-4333-B657-CDA213AE43B3"
+    },
+    {
+      "class": "shapePath",
+      "id": "FC6F023A-D8B9-4D94-B45C-7D4B3F112FDB"
+    },
+    {
+      "class": "shapePath",
+      "id": "FD51AE7C-913E-4C54-9EA1-1934674BC5B1"
+    },
+    {
+      "class": "shapePath",
+      "id": "D020845E-826C-4A81-A255-FDE77ABA349D"
+    },
+    {
+      "class": "shapePath",
+      "id": "49890CFB-CF23-4238-A153-C40B85BA7E5F"
+    },
+    {
+      "class": "shapePath",
+      "id": "AB315A3F-F8D2-40AF-A041-3911D1DED06A"
+    },
+    {
+      "class": "shapePath",
+      "id": "A2B437CF-FB6C-4E31-965C-F59745E815D1"
+    },
+    {
+      "class": "shapePath",
+      "id": "3CDD6C6B-394F-4E09-8E16-87F1801E089B"
+    },
+    {
+      "class": "shapePath",
+      "id": "59E29017-A4CA-494F-B3B0-CFAAFAD9E9EC"
+    },
+    {
+      "class": "shapePath",
+      "id": "55FC61AD-DC57-45D3-9A0C-B65FA4C361A3"
+    },
+    {
+      "class": "shapePath",
+      "id": "97600575-47F9-4A7E-A654-E2E322B00BB4"
+    },
+    {
+      "class": "shapePath",
+      "id": "673A14C8-DF5B-4137-B1DB-0AA6345A1A6B"
+    }
+  ],
+  "name": "Bentley Senior Care",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringFontAttribute": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAFpMYXRvLUxpZ2h00hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDTAN4A4wDuAPcBDQERAR4BJwEsAT8BQgFVAWcBagFvAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXE="
+        },
+        "NSColor": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGHyBYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVHFUkbnVsbNQJCgsMDQ4PEFVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VWJGNsYXNzRjEgMSAxABABgAKABNISDBMUVE5TSUQQAYAD0hYXGBlaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0NvbG9yU3BhY2WiGhtcTlNDb2xvclNwYWNlWE5TT2JqZWN00hYXHR5XTlNDb2xvcqIdG18QD05TS2V5ZWRBcmNoaXZlctEhIlRyb290gAEACAARABoAIwAtADIANwA9AEMATABSAF8AdAB7AIIAhACGAIgAjQCSAJQAlgCbAKYArwC8AL8AzADVANoA4gDlAPcA+gD/AAAAAAAAAgEAAAAAAAAAIwAAAAAAAAAAAAAAAAAAAQE="
+        },
+        "NSParagraphStyle": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGIiNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBQYHlUkbnVsbNYJCgsMDQ4PEBEQExFaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NWJGNsYXNzXxAPTlNNYXhMaW5lSGVpZ2h0gACAAiNAMAAAAAAAAIACgATSFQ0WF1pOUy5vYmplY3RzoIAD0hkaGxxaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ohsdWE5TT2JqZWN00hkaHyBfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaMfIR1fEBBOU1BhcmFncmFwaFN0eWxlXxAPTlNLZXllZEFyY2hpdmVy0SQlVHJvb3SAAQAIABEAGgAjAC0AMgA3AD0AQwBQAFsAZwB5AIYAjQCfAKEAowCsAK4AsAC1AMAAwQDDAMgA0wDcAOQA5wDwAPUBDwETASYBOAE7AUAAAAAAAAACAQAAAAAAAAAmAAAAAAAAAAAAAAAAAAABQg=="
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 31.55056,
+            "enabled": 1,
+            "modelID": "constraint_9b3e003e-fb4a-4976-b39d-e7d9be577056",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 108
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_585be7d1-c07c-4c4e-8b6d-36adc4a3fccc",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

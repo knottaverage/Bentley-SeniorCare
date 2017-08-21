@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "37E2C5C1-ACE8-45A4-AFE9-DBFBFADF78DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 866,
+    "width": 1177,
+    "x": 131,
+    "y": 113
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F6884FC1-8FB8-4BE8-ACA0-CB65509F441F"
+    },
+    {
+      "class": "group",
+      "id": "64B580CB-7905-4078-8FFD-9EA41A959267"
+    },
+    {
+      "class": "group",
+      "id": "D8633A5E-B837-469F-B563-4F62FA6AB1F0"
+    },
+    {
+      "class": "group",
+      "id": "F76BE5A7-B012-4FE1-9050-0FD25F67D3D7"
+    },
+    {
+      "class": "group",
+      "id": "B18C289C-75D4-4B41-B25D-B90E587ED731"
+    },
+    {
+      "class": "group",
+      "id": "2B3C7167-2393-4E39-AFD6-789A2294CA82"
+    },
+    {
+      "class": "group",
+      "id": "3C75B27E-78A3-4EC1-90DD-FC0C84539CC2"
+    },
+    {
+      "class": "group",
+      "id": "F89BFAC0-3E45-4E45-86B1-F633F8394C44"
+    },
+    {
+      "class": "group",
+      "id": "EBBDDC0B-A71D-451C-97B2-8CA82AACD0C9"
+    }
+  ],
+  "name": "John Cards",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

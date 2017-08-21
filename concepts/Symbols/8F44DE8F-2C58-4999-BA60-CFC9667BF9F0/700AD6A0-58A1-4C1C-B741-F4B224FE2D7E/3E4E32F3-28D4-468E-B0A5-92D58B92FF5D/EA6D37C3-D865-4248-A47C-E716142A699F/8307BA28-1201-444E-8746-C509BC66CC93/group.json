@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "do_objectID": "8307BA28-1201-444E-8746-C509BC66CC93",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 27,
+    "width": 27,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1F9CDFB2-1908-401D-B1E3-DD84B8677D2E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8A250AEB-453B-4AC6-8030-F1207021EDD1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0287D50F-F0E2-4B28-9E1E-6F9DECA0849C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "76D3D880-9930-43F8-8162-C6A551D25D1A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E7DEF972-A7F8-4DAC-952E-159095CFE697"
+    }
+  ],
+  "name": "Billing Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 30,
+            "enabled": 1,
+            "modelID": "constraint_b9b0182b-9b5b-4cf9-8c49-d899d1d96ea7",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 30
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_1043b629-841f-4fb0-b67b-644a10b87138",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

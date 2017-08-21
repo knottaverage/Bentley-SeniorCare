@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "C08B7DCC-DB63-484E-9329-EC82CBBACE45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 211,
+    "width": 463,
+    "x": 30,
+    "y": 187
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6839FBD0-2EAC-4124-8EE0-1E8BDF5708B6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B3CA0A5C-4617-4EF5-B21B-EFBC6B87B7E0"
+    },
+    {
+      "class": "group",
+      "id": "40352539-60BC-4AC0-A824-657A6E2CBE79"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F64A7C64-8026-44FF-B25E-D23274E1D2FC"
+    },
+    {
+      "class": "text",
+      "id": "C123F74D-0F74-4F55-8CFA-8BE75C8F2760"
+    },
+    {
+      "class": "text",
+      "id": "C630F7B7-52B1-4343-B412-3C743987C4F7"
+    }
+  ],
+  "name": "Schedule Form",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

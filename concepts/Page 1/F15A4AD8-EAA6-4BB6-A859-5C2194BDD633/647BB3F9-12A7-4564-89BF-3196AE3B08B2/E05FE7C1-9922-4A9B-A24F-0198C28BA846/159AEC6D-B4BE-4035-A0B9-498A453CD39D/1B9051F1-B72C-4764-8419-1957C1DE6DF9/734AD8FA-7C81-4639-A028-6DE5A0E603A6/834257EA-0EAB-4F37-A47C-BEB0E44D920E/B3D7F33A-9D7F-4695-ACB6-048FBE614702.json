@@ -1,0 +1,142 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": 1,
+  "do_objectID": "B3D7F33A-9D7F-4695-ACB6-048FBE614702",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 8.736831334429926,
+    "width": 9.4965557982934,
+    "x": 7.913796498577848,
+    "y": 17.93793873010976
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Shape",
+  "nameIsFixed": false,
+  "path": {
+    "_class": "path",
+    "isClosed": true,
+    "pointRadiusBehaviour": 1,
+    "points": [
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.5, 1}",
+        "curveMode": 1,
+        "curveTo": "{0.5, 1}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.5, 1}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.17000000000000001, 0.67391304347826086}",
+        "curveMode": 4,
+        "curveTo": "{0.43000000000000005, 0.92391304347826086}",
+        "hasCurveFrom": true,
+        "hasCurveTo": false,
+        "point": "{0.43000000000000005, 0.92391304347826086}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0, 0.13043478260869562}",
+        "curveMode": 3,
+        "curveTo": "{0, 0.50543478260869557}",
+        "hasCurveFrom": true,
+        "hasCurveTo": true,
+        "point": "{0, 0.29891304347826086}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.35999999999999999, 0}",
+        "curveMode": 3,
+        "curveTo": "{0.12000000000000001, 0}",
+        "hasCurveFrom": true,
+        "hasCurveTo": true,
+        "point": "{0.27500000000000002, 0}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.55500000000000005, 0.043478260869565209}",
+        "curveMode": 4,
+        "curveTo": "{0.44499999999999995, 0.043478260869565209}",
+        "hasCurveFrom": true,
+        "hasCurveTo": true,
+        "point": "{0.5, 0.11413043478260866}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.88, 0}",
+        "curveMode": 3,
+        "curveTo": "{0.6399999999999999, 0}",
+        "hasCurveFrom": true,
+        "hasCurveTo": true,
+        "point": "{0.72499999999999998, 0}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{1, 0.50543478260869557}",
+        "curveMode": 3,
+        "curveTo": "{1, 0.13043478260869562}",
+        "hasCurveFrom": true,
+        "hasCurveTo": true,
+        "point": "{1, 0.29891304347826086}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.56999999999999995, 0.92391304347826075}",
+        "curveMode": 4,
+        "curveTo": "{0.83000000000000007, 0.67391304347826086}",
+        "hasCurveFrom": false,
+        "hasCurveTo": true,
+        "point": "{0.56999999999999995, 0.92391304347826075}"
+      }
+    ]
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 8.28,
+            "enabled": 1,
+            "modelID": "constraint_a8961a74-d783-45c9-a736-3bca91e1e979",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 9
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_d31df687-a2ba-4dc7-936f-0a507a82cbec",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

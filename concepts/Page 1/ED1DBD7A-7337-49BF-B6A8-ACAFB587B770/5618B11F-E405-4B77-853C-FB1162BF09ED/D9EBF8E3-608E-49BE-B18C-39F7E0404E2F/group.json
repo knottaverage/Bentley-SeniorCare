@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 27,
-    "width": 57,
-    "x": 247,
+    "width": 58,
+    "x": 0,
     "y": 0
   },
   "hasClickThrough": false,
@@ -26,24 +26,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "AE55DA81-2A2A-4654-A0E1-0C6549772327"
+      "class": "group",
+      "id": "2FC242B3-E5AC-4BF2-9D71-D7E1E307B9AE"
     },
     {
-      "class": "shapeGroup",
-      "id": "58295F1B-32BE-4C1D-B697-AC6EFBDDED66"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "367FD2B6-6290-4C7E-9A73-A8011743D0BB"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "4D6F2D0E-F5E1-43CD-BDD8-C4133D3FBD3E"
+      "class": "group",
+      "id": "803B6D77-4DDF-4F86-86AD-09EDA6C52161"
     }
   ],
-  "name": "Group 10",
-  "nameIsFixed": false,
+  "name": "Today Button Group",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

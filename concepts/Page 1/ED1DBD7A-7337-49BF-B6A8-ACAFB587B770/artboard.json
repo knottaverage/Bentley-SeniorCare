@@ -29,7 +29,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1029,
+    "height": 1024,
     "width": 1440,
     "x": 7356,
     "y": 962
@@ -70,27 +70,11 @@
     },
     {
       "class": "shapeGroup",
-      "id": "6A358AE2-7D34-4E9A-B73B-6E81AB9B595C"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "F3FBF138-156A-4F31-8FE7-265C40C2BDD6"
-    },
-    {
-      "class": "shapeGroup",
       "id": "9304285D-13EC-416E-AD82-A099B76186BB"
     },
     {
       "class": "group",
       "id": "18CC0D70-C406-4C1B-A5C4-9EBF8E54A210"
-    },
-    {
-      "class": "group",
-      "id": "66A6082B-558A-4FD0-9E8E-748CE205353B"
-    },
-    {
-      "class": "group",
-      "id": "EC8D6168-3324-4B18-BA45-71B10E83BF49"
     },
     {
       "class": "text",
@@ -210,47 +194,11 @@
     },
     {
       "class": "group",
-      "id": "F2553752-870E-4C2F-A2B6-D1D3102F7797"
+      "id": "AFA36E7A-1ACC-4CA6-A2D3-DF15CA387246"
     },
     {
       "class": "group",
-      "id": "5B741257-7C92-471F-805D-69E179CC2B83"
-    },
-    {
-      "class": "group",
-      "id": "FD9C3C9A-A680-497E-B442-E6D7E7389AF6"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "61C5BD66-1BE8-44BF-9FD8-521528BD4D7F"
-    },
-    {
-      "class": "text",
-      "id": "C8CEC0B7-07F6-4236-BE91-450F29B679C8"
-    },
-    {
-      "class": "text",
-      "id": "01BCB40F-2629-491D-9E1F-0D230751E4B1"
-    },
-    {
-      "class": "text",
-      "id": "11F06907-78CD-45FA-A17D-29A404CB8DCA"
-    },
-    {
-      "class": "group",
-      "id": "66334179-ABDD-47AC-912A-ED4BD801F553"
-    },
-    {
-      "class": "group",
-      "id": "C5765943-E910-4EBA-9E51-6219A4DB7FBC"
-    },
-    {
-      "class": "group",
-      "id": "3B4F18D2-9A5D-4C9C-BA5E-3491BC50B031"
-    },
-    {
-      "class": "group",
-      "id": "3292054E-44AF-4088-9EB0-A56A3616B3FC"
+      "id": "41FFABB7-3C65-472F-A741-5B3E967C51EE"
     },
     {
       "class": "group",
@@ -262,15 +210,7 @@
     },
     {
       "class": "group",
-      "id": "F45F7C26-65E6-4CD3-9E66-6B5546D35426"
-    },
-    {
-      "class": "group",
-      "id": "B4BA76BD-1F1F-422C-9FBA-A0DA07E15280"
-    },
-    {
-      "class": "group",
-      "id": "065478AF-D2DC-4F9A-9536-7AD2F2A08DFF"
+      "id": "3AF14309-30F8-48E1-8ACC-DEA9AEDAAD10"
     },
     {
       "class": "text",
@@ -283,6 +223,18 @@
     {
       "class": "symbolInstance",
       "id": "A1B34B4C-15ED-4142-85B5-E9E90808324E"
+    },
+    {
+      "class": "group",
+      "id": "7AC149AF-7DEE-433C-8869-C839597E64FE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ADAF7AE9-4FA0-415E-8838-5A286ABEED64"
+    },
+    {
+      "class": "group",
+      "id": "E9E45C8D-4B0D-4919-869B-4D6C5D15C3D2"
     }
   ],
   "layout": {
@@ -302,7 +254,7 @@
   },
   "name": "Desktop HD Copy 6",
   "nameIsFixed": false,
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

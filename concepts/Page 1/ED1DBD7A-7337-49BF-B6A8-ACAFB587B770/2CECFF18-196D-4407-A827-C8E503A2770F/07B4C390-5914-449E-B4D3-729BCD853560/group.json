@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 152.0689655172414,
+    "height": 152,
     "width": 150,
     "x": 0,
     "y": 0
@@ -32,6 +32,14 @@
     {
       "class": "bitmap",
       "id": "8006410C-405E-474F-BCFE-3DE0772BC0B8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F45C5D10-F39F-4A8B-B295-6DF468204AAA"
+    },
+    {
+      "class": "text",
+      "id": "607CA383-6C0D-47C8-AA5E-A3F9A18267B3"
     }
   ],
   "name": "Avatar",

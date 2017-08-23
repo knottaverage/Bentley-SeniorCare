@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 152.0689655172414,
+    "height": 152,
     "width": 150,
     "x": 73,
     "y": 93
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",

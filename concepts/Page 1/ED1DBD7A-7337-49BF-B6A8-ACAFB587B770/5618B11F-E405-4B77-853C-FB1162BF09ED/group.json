@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 27,
-    "width": 304,
-    "x": 829,
+    "width": 338,
+    "x": 629,
     "y": 139
   },
   "hasClickThrough": false,
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
